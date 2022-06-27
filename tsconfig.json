@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "es2020",
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "useUnknownInCatchVariables": true,
+        "skipLibCheck": true,
+        "moduleResolution": "Node",
+        "allowSyntheticDefaultImports": true
+    }
+}
